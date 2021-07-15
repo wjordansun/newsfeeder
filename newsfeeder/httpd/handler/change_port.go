@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	ipAddress string = "192.168.0.229:8000"
+	ipAddress string = "108.53.39.244:8000"
 )
 
 func sendChangePortMessage() {
